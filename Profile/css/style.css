@@ -1,0 +1,37 @@
+.main-header{
+    background-color: antiquewhite;
+    color:rgb(80, 2, 2);
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.profile-division{
+    margin: 10px;
+    text-align: center;
+}
+
+.profile-pic{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    align-self: center;
+    box-shadow: rgb(86, 70, 50) 2px 5px 5px;
+}
+
+body{
+    margin:0%;
+}
+
+.bvp-link{
+    color: rgb(80, 2, 2);
+    text-decoration: none;
+}
+
+.bvp-link:hover{
+    text-decoration:underline;
+}
